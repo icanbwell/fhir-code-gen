@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.10-slim
 # https://github.com/imranq2/docker.spark_python
 USER root
 
