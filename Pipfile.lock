@@ -623,11 +623,12 @@
         },
         "pip": {
             "hashes": [
-                "sha256:5052d7889c1f9d05224cd41741acb7c5d6fa735ab34e339624a614eaaa7e7d76",
-                "sha256:7fd9972f96db22c8077a1ee2691b172c8089b17a5652a44494a9ecb0d78f9149"
+                "sha256:578283f006390f85bb6282dffb876454593d637f5d1be494b5202ce4877e71f2",
+                "sha256:6d67a2b4e7f14d8b31b8b52648866fa717f45a1eb70e83002f4331d07e953717"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==23.3.2"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==25.2"
         },
         "pip-shims": {
             "hashes": [
