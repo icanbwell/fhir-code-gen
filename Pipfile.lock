@@ -924,11 +924,12 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3",
-                "sha256:df7aa8afb0148fa78488e7899b2c59b5f4ffcfa82e6c54ccb9dd37c1d7b52d54"
+                "sha256:c90f7a39f716c572c4e3e58509581ebd83f9b59cced005b7db7ad2d22b0db99f",
+                "sha256:cb9bcef5a4b345d5da5d145dc3e30834f58e8018828cbc724d30b4cb7d4d49f1"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==2.1.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==2.6.0"
         },
         "virtualenv": {
             "hashes": [
